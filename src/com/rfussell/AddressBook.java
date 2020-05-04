@@ -1,7 +1,6 @@
 package com.rfussell;
 
 /**
- * Assignment2, COMP 268
  * Class: AddressBook.java
  * Purpose: Represent/model a person name with names, contact and social info
  * @author: Robin Fussell
